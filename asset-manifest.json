@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nft-gallery/static/css/main.8b9f79cf.css",
-    "main.js": "/nft-gallery/static/js/main.e088b8be.js",
-    "static/js/787.236aa8f6.chunk.js": "/nft-gallery/static/js/787.236aa8f6.chunk.js",
-    "static/media/cp.png": "/nft-gallery/static/media/cp.721aa0036cf2c2fb3c56.png",
-    "static/media/right.png": "/nft-gallery/static/media/right.59929fa43621ecdd1bcc.png",
-    "index.html": "/nft-gallery/index.html",
-    "main.8b9f79cf.css.map": "/nft-gallery/static/css/main.8b9f79cf.css.map",
-    "main.e088b8be.js.map": "/nft-gallery/static/js/main.e088b8be.js.map",
-    "787.236aa8f6.chunk.js.map": "/nft-gallery/static/js/787.236aa8f6.chunk.js.map"
+    "main.css": "/nft-gallery-react/static/css/main.8b9f79cf.css",
+    "main.js": "/nft-gallery-react/static/js/main.ced5d7a3.js",
+    "static/js/787.236aa8f6.chunk.js": "/nft-gallery-react/static/js/787.236aa8f6.chunk.js",
+    "static/media/cp.png": "/nft-gallery-react/static/media/cp.721aa0036cf2c2fb3c56.png",
+    "static/media/right.png": "/nft-gallery-react/static/media/right.59929fa43621ecdd1bcc.png",
+    "index.html": "/nft-gallery-react/index.html",
+    "main.8b9f79cf.css.map": "/nft-gallery-react/static/css/main.8b9f79cf.css.map",
+    "main.ced5d7a3.js.map": "/nft-gallery-react/static/js/main.ced5d7a3.js.map",
+    "787.236aa8f6.chunk.js.map": "/nft-gallery-react/static/js/787.236aa8f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b9f79cf.css",
-    "static/js/main.e088b8be.js"
+    "static/js/main.ced5d7a3.js"
   ]
 }
