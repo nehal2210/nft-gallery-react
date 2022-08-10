@@ -1,0 +1,83 @@
+// @import "bootstrap/dist/css/bootstrap.minS.css";
+
+body {
+  background: #282c34;
+}
+P {
+  margin: 0;
+}
+h5 {
+  color: #c0bfff;
+  font-size: 12px;
+  svg {
+    margin: 0 0 0 5px;
+  }
+}
+.App {
+  .header {
+    padding: 25px 0px 0 35px;
+    h1 {
+      color: white;
+    }
+    p {
+      margin: 0;
+      font-style: italic;
+      color: #babcfd;
+    }
+  }
+  .body {
+    margin: 8% 0 0 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+
+    .search-box {
+      border: 1px solid blue;
+      width: 80%;
+      padding: 3%;
+      border-radius: 10px;
+      background: beige;
+    }
+    .gallery {
+      margin: 2% 0 0 0;
+      width: 95%;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-content: center;
+      justify-content: center;
+      align-items: center;
+
+      .img-container {
+        margin: 2%;
+        img {
+          width: 200px;
+          height: 200px;
+          border-radius: 10px;
+        }
+        .nft-content {
+        }
+        p {
+          color: #c0bfff;
+        }
+        .bold {
+          font-weight: 500;
+        }
+        .italic {
+          margin: -5px 12px 0 0;
+          font-size: 12px;
+          font-style: italic;
+          width: 50%;
+          display: inline;
+        }
+        .cp {
+          width: 25px;
+          height: 20px;
+        }
+      }
+    }
+  }
+}
